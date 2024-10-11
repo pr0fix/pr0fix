@@ -45,3 +45,4 @@ My name is Jani, and I'm an IT student with a strong interest in full-stack soft
 ### 📊 My Stats
 
 ![pr0fix's GitHub stats](https://github-readme-stats.vercel.app/api?username=pr0fix&show_icons=true&theme=catppuccin_mocha )
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pr0fix&layout=compact&theme=catppuccin_mocha&langs_count=8)

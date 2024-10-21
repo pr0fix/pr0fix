@@ -2,7 +2,7 @@
 
 My name is Jani, and I'm an IT student with a strong interest in full-stack software development. I'm currently pursuing my bachelor's degree in business information technology, with a focus on developing my skills in full-stack development.
 
-- I’m currently learning about database development and React Native mobile development. Besides that, I'm working on completing the Full Stack Open course by the University of Helsinki and Houston Inc.
+- I’m currently learning about integrating AI models into Node.js applications and React Native mobile development. Besides that, I'm working on completing the Full Stack Open course by the University of Helsinki and Houston Inc.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jani-h%C3%A4nninen-66909319b/" target="_blank">

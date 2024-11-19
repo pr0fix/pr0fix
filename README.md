@@ -1,6 +1,6 @@
 ## Hi there! 👨🏻‍💻
 
-My name is Jani, and I'm an IT student with a strong interest in full-stack software development. I'm currently pursuing my bachelor's degree in business information technology, with a focus on developing my skills in full-stack development.
+My name is Jani, and I'm an IT student with a strong interest in full-stack software development. I'm currently pursuing my bachelor's degree in business information technology, with a focus on developing my skills in full-stack development. More information on my [portfolio](https://pr0fix.github.io/) page!
 
 - I’m currently learning about integrating AI models into Node.js applications and React Native mobile development. Besides that, I'm working on completing the Full Stack Open course by the University of Helsinki and Houston Inc.
 
@@ -9,7 +9,6 @@ My name is Jani, and I'm an IT student with a strong interest in full-stack soft
     <img alt="LinkedIn logo" width="100px" title="Check out my LinkedIn page" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg">
   </a>
 </div>
-
 ---
 
 ### 🧰 Languages and Tools 🔧

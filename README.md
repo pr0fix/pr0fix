@@ -9,7 +9,7 @@ My name is Jani, and I'm an IT student with a strong interest in full-stack soft
     <img alt="LinkedIn logo" width="100px" title="Check out my LinkedIn page" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg">
   </a>
 </div>
----
+
 
 ### 🧰 Languages and Tools 🔧
 

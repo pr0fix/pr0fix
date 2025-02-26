@@ -25,7 +25,7 @@ Here are some projects I've been working on. You might spot a common theme!☕
 - **Technologies Used:** TypeScript, React, Node.js, Redux, MongoDB, Tailwind
 
 ### [caffeinated-strings](https://github.com/pr0fix/caffeinated-strings)  
-🧵 A **JavaScript string manipulation library** with a coffee-inspired twist.    
+🧵 A **JavaScript string manipulation library** with a coffee-inspired twist. You can now install it to your project from [**npm**](https://www.npmjs.com/package/caffeinated-strings)!
 - **Technologies Used:** JavaScript, TypeScript
 
 🔍 For more projects, visit my **[GitHub Repositories](https://github.com/pr0fix?tab=repositories)** or check out my **[Portfolio](https://pr0fix.github.io/)** website!

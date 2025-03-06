@@ -16,6 +16,10 @@ I'm an IT student with a passion for **full-stack development** and **modern web
 
 Here are some projects I've been working on. You might spot a common theme!☕
 
+### [caffeinated-strings](https://github.com/pr0fix/caffeinated-strings)  
+🧵 A **JavaScript string manipulation library** with a coffee-inspired twist. You can now install it to your project from [**npm**](https://www.npmjs.com/package/caffeinated-strings)!
+- **Technologies Used:** JavaScript, TypeScript, ts-jest, CI/CD pipeline to automatically bump version number and publish to NPM.
+
 ### [CoffeeCompanion](https://github.com/pr0fix/CoffeeCompanion)
 ☕ A mobile application built with **React Native** for finding nearby coffee shops.  
 - **Technologies Used:** React Native, Expo, Firebase, Foursquare API
@@ -23,10 +27,6 @@ Here are some projects I've been working on. You might spot a common theme!☕
 ### [Beaniverse](https://github.com/pr0fix/Beaniverse)  
 🛒 A full-stack **E-commerce application** for a coffee shop.  
 - **Technologies Used:** TypeScript, React, Node.js, Redux, MongoDB, Tailwind
-
-### [caffeinated-strings](https://github.com/pr0fix/caffeinated-strings)  
-🧵 A **JavaScript string manipulation library** with a coffee-inspired twist. You can now install it to your project from [**npm**](https://www.npmjs.com/package/caffeinated-strings)!
-- **Technologies Used:** JavaScript, TypeScript, GitHub Workflow CI/CD to automatically bump version number and publish to NPM.
 
 🔍 For more projects, visit my **[GitHub Repositories](https://github.com/pr0fix?tab=repositories)** or check out my **[Portfolio](https://pr0fix.github.io/)** website!
 

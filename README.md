@@ -26,7 +26,7 @@ Here are some projects I've been working on. You might spot a common theme!☕
 
 ### [caffeinated-strings](https://github.com/pr0fix/caffeinated-strings)  
 🧵 A **JavaScript string manipulation library** with a coffee-inspired twist. You can now install it to your project from [**npm**](https://www.npmjs.com/package/caffeinated-strings)!
-- **Technologies Used:** JavaScript, TypeScript
+- **Technologies Used:** JavaScript, TypeScript, GitHub Workflow CI/CD to automatically bump version number and publish to NPM.
 
 🔍 For more projects, visit my **[GitHub Repositories](https://github.com/pr0fix?tab=repositories)** or check out my **[Portfolio](https://pr0fix.github.io/)** website!
 

@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Jani 👨🏻‍💻
 
-🚀 **Aspiring Full-Stack Developer | IT Student | Coffee Lover** 
+🚀 **Aspiring Full-Stack Developer | IT Student | Coffee Lover** ☕
 
 I'm an IT student with a passion for **full-stack development** and **modern web technologies**. Currently, I'm pursuing my bachelor's in **Business Information Technology**, with a focus on developing my skills in full-stack development.
 
@@ -14,19 +14,19 @@ I'm an IT student with a passion for **full-stack development** and **modern web
 
 ## 🏆 **My Projects**  
 
-Here are some projects I've been working on. You might spot a common theme!☕
+🚧 Here are some projects I've been working on:
 
 ### [caffeinated-strings](https://github.com/pr0fix/caffeinated-strings)  
 🧵 A **JavaScript string manipulation library** with a coffee-inspired twist. You can now install it to your project from [**npm**](https://www.npmjs.com/package/caffeinated-strings)!
 - **Technologies Used:** JavaScript, TypeScript, ts-jest, CI/CD pipeline to automatically bump version number and publish to NPM.
 
+### [Financial Dashboard](https://github.com/pr0fix/financial-dashboard)  
+💸 A full-stack **Financial Dashboard** for managing your customers and invoices.  
+- **Technologies Used:** TypeScript, Next.js 15, Tailwind, PostgreSQL, Docker
+
 ### [CoffeeCompanion](https://github.com/pr0fix/CoffeeCompanion)
 ☕ A mobile application built with **React Native** for finding nearby coffee shops.  
 - **Technologies Used:** React Native, Expo, Firebase, Foursquare API
-
-### [Beaniverse](https://github.com/pr0fix/Beaniverse)  
-🛒 A full-stack **E-commerce application** for a coffee shop.  
-- **Technologies Used:** TypeScript, React, Node.js, Redux, MongoDB, Tailwind
 
 🔍 For more projects, visit my **[GitHub Repositories](https://github.com/pr0fix?tab=repositories)** or check out my **[Portfolio](https://pr0fix.github.io/)** website!
 
@@ -47,9 +47,9 @@ Here are some projects I've been working on. You might spot a common theme!☕
 #### **📦 Databases & Cloud:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 

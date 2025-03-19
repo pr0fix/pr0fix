@@ -21,8 +21,8 @@ I'm an IT student with a passion for **full-stack development** and **modern web
 - **Technologies Used:** JavaScript, TypeScript, ts-jest, CI/CD pipeline to automatically bump version number and publish to NPM.
 
 ### [Financial Dashboard](https://github.com/pr0fix/financial-dashboard)  
-💸 A full-stack **Financial Dashboard** for managing your customers and invoices.  
-- **Technologies Used:** TypeScript, Next.js 15, Tailwind, PostgreSQL, Docker
+💸 A full-stack **Financial Dashboard** for managing your customers and invoices.
+- **Technologies Used:** TypeScript, Next.js 15, Tailwind, PostgreSQL, Docker, Jest, Playwright, GitHub Actions
 
 ### [CoffeeCompanion](https://github.com/pr0fix/CoffeeCompanion)
 ☕ A mobile application built with **React Native** for finding nearby coffee shops.  

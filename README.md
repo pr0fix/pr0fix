@@ -2,7 +2,7 @@
 
 🚀 **Aspiring Full-Stack Developer | IT Student | Coffee Lover** ☕
 
-I'm an IT student with a passion for **full-stack development** and **modern web technologies**. Currently, I'm pursuing my bachelor's in **Business Information Technology**, with a focus on developing my skills in full-stack development.
+I'm an IT student with a passion for **full-stack development** and **modern web technologies**. Currently, I'm pursuing my bachelor's in **Information Technology**, with a focus on developing my skills in full-stack development.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jani-h%C3%A4nninen-66909319b/" target="_blank">
@@ -27,6 +27,10 @@ I'm an IT student with a passion for **full-stack development** and **modern web
 ### [CoffeeCompanion](https://github.com/pr0fix/CoffeeCompanion)
 ☕ A mobile application built with **React Native** for finding nearby coffee shops.  
 - **Technologies Used:** React Native, Expo, Firebase, Foursquare API
+
+### [match-a-cat](https://github.com/pr0fix/match-a-cat)
+🐈 A web application built with **MERN Stack** that lets you swipe through cats like Tinder, match with your favorites, and collect them–kind of like Pokémon Go, but with cats.
+- **Technologies Used:** TypeScript, React, Node.js, Express, zustand, MongoDB, tailwindcss
 
 🔍 For more projects, visit my **[GitHub Repositories](https://github.com/pr0fix?tab=repositories)** or check out my **[Portfolio](https://pr0fix.github.io/)** website!
 

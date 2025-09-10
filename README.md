@@ -1,8 +1,8 @@
 ## Hi there! 👋 I'm Jani 👨🏻‍💻
 
-🚀 **Aspiring Full-Stack Developer | IT Student | Coffee Lover** ☕
+🚀 **Junior Martech Developer | Interested in Full-Stack Development | IT Student | Coffee Lover** ☕
 
-I'm an IT student with a passion for **full-stack development** and **modern web technologies**. Currently, I'm pursuing my bachelor's in **Information Technology**, with a focus on developing my skills in full-stack development.
+I'm an IT student with a passion for **full-stack development** and **modern web technologies**. Currently, I'm working as a Junior Marketing Technology Developer and pursuing my bachelor's in **Information Technology**,  with a focus on developing my skills in full-stack development.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jani-h%C3%A4nninen-66909319b/" target="_blank">

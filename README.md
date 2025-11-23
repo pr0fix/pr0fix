@@ -1,8 +1,10 @@
 ## Hi there! 👋 I'm Jani 👨🏻‍💻
 
-🚀 **Junior Martech Developer | Interested in Full-Stack Development | IT Student | Coffee Lover** ☕
+🚀 **Junior MarTech Developer | BBA in IT | Interested in Full-Stack Development | Coffee Lover** ☕
 
-I'm an IT student with a passion for **full-stack development** and **modern web technologies**. Currently, I'm working as a Junior Marketing Technology Developer and pursuing my bachelor's in **Information Technology**,  with a focus on developing my skills in full-stack development.
+I’m a **Junior Marketing Technology Developer** with a **BBA in IT Full-Stack Software Development** passionate about building **scalable**, **efficient**, and **user-friendly solutions**.
+In my day-to-day work, I focus on **developing and optimizing marketing automation platforms** such as HubSpot and Salesforce Marketing Cloud, ensuring seamless workflows and impactful customer journeys.
+Beyond automation, I work on **system integrations**, **combining back-end logic with front-end development** and **UX/UI design** to deliver **responsive**, **intuitive interfaces** that drive engagement and performance.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jani-h%C3%A4nninen-66909319b/" target="_blank">

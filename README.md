@@ -18,21 +18,17 @@ Beyond automation, I work on **system integrations**, **combining back-end logic
 
 🚧 Here are some projects I've been working on:
 
-### [caffeinated-strings](https://github.com/pr0fix/caffeinated-strings)  
-🧵 A **JavaScript string manipulation library** with a coffee-inspired twist. You can now install it to your project from [**npm**](https://www.npmjs.com/package/caffeinated-strings)!
-- **Technologies Used:** JavaScript, TypeScript, ts-jest, CI/CD pipeline to automatically bump version number and publish to NPM.
-
-### [Financial Dashboard](https://github.com/pr0fix/financial-dashboard)  
-💸 A full-stack **Financial Dashboard** for managing your customers and invoices.
-- **Technologies Used:** TypeScript, Next.js 15, Tailwind, PostgreSQL, Docker, Jest, Playwright, GitHub Actions
+### [Liiku-client](https://github.com/pr0fix/liiku-client) & [Liiku-server](https://github.com/pr0fix/liiku-server)
+🚌 A real-time public transit viewer with a React + Vite client and a Node server that streams GTFS + vehicle positions over WebSocket and animates vehicles on a MapLibre map.
+- **Technologies Used:** React, TypeScript, Vite, MapLibre GL, WebSockets, Node.js, Express, GTFS, HSL-API
 
 ### [CoffeeCompanion](https://github.com/pr0fix/CoffeeCompanion)
 ☕ A mobile application built with **React Native** for finding nearby coffee shops.  
 - **Technologies Used:** React Native, Expo, Firebase, Foursquare API
 
-### [match-a-cat](https://github.com/pr0fix/match-a-cat)
-🐈 A web application built with **MERN Stack** that lets you swipe through cats like Tinder, match with your favorites, and collect them–kind of like Pokémon Go, but with cats.
-- **Technologies Used:** TypeScript, React, Node.js, Express, zustand, MongoDB, tailwindcss
+### [caffeinated-strings](https://github.com/pr0fix/caffeinated-strings)  
+🧵 A **JavaScript string manipulation library** with a coffee-inspired twist. You can now install it to your project from [**npm**](https://www.npmjs.com/package/caffeinated-strings)!
+- **Technologies Used:** JavaScript, TypeScript, ts-jest, CI/CD pipeline to automatically bump version number and publish to NPM.
 
 🔍 For more projects, visit my **[GitHub Repositories](https://github.com/pr0fix?tab=repositories)** or check out my **[Portfolio](https://pr0fix.github.io/)** website!
 

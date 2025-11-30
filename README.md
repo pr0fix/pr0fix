@@ -18,7 +18,7 @@ Beyond automation, I work on **system integrations**, **combining back-end logic
 
 🚧 Here are some projects I've been working on:
 
-### [Liiku-client](https://github.com/pr0fix/liiku-client) & [Liiku-server](https://github.com/pr0fix/liiku-server)
+### [liiku-client](https://github.com/pr0fix/liiku-client) & [liiku-server](https://github.com/pr0fix/liiku-server)
 🚌 A real-time public transit viewer with a React + Vite client and a Node server that streams GTFS + vehicle positions over WebSocket and animates vehicles on a MapLibre map.
 - **Technologies Used:** React, TypeScript, Vite, MapLibre GL, WebSockets, Node.js, Express, GTFS, HSL-API
 

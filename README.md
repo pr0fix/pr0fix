@@ -34,7 +34,7 @@ Beyond automation, I work on **system integrations**, **combining back-end logic
 
 ---
 
-### 🛠 *My tech-stack:**  
+### 🛠 **My Stack:**  
 
 #### **💻 Languages & Frameworks:**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)

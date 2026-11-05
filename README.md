@@ -46,12 +46,3 @@ More projects and experiments available in my **[repositories](https://github.co
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-### 📊 **GitHub Stats**  
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pr0fix&show_icons=true&theme=catppuccin_mocha" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr0fix&layout=compact&theme=catppuccin_mocha&langs_count=8" />
-</div>

@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Jani
 
-**Junior MarTech Developer | BBA in IT | Interested in Full-Stack Development | Coffee Lover** ☕
+**MarTech Developer | BBA in IT | Interested in Full-Stack Development | Coffee Lover** ☕
 
 I’m a Marketing Technology Developer with a background in full‑stack software development. Most of my work revolves around marketing automation platforms, where I build and maintain workflows, data integrations, and custom components. <br><br>Outside of the automation side, I enjoy working across the stack from building APIs to working on front‑end projects and experimenting with new technologies.
 
